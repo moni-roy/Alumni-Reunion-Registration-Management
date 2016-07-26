@@ -3,6 +3,9 @@ A dedicated project for Jahangirnagar University Alumni Association of Mathemati
 
 This application developed for managing registration process for a reunion event(2015) of JUAAM.
 
+## Environment:
+- Mysql Server
+- Java Swing Gui
 
 
 ## For any query or bug report or suggestion:
